@@ -1,0 +1,31 @@
+/*
+    Author: Abhinandan, Shivam
+    URL: https://ntpl.world
+    Updated: 07/12/2022
+*/
+body {
+  background-color: #ffffff;
+  color: #051CF2;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.coming-soon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.coming-soon p {
+  font-weight: 500;
+}
+.coming-soon img {
+  width: 280px;
+}
+
+/*# sourceMappingURL=style.css.map */
